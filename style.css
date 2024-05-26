@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+    color: white;
+}
+h1, h2 {
+    color: red;
+    font-weight: bold;
+}
+.lead {
+    color: white;
+}
+
+.historyheader {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+  .napalmmonks {
+    color: brown
+  }
+
+  .falcons {
+    color: #50C878
+  }
+
+  .mercs {
+    color: gray
+  }
+
+  .scourge {
+    color:#0F52BA
+  }
+
+  .malice {
+    color:  #7851a9
+  }
+
+  .firehawks {
+    color: orange
+  }
+
+  .demons {
+    color: yellow
+  }
+
+  .immortals {
+    color: red
+  }
+
+  .angels {
+    color: magenta
+  }
+
+  .dreams {
+    color: gold
+  }
+
+  .guardians {
+    color: white
+  }
